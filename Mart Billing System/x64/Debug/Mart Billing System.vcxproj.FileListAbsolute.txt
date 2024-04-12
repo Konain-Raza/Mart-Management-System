@@ -1,0 +1,17 @@
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.adminpanel_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.loading_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.passwordreset_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.productsadd_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.registrationform_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.signin_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.Software.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\Mart Billing System.vcxproj.GenerateResource.cache
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Debug\Mart Billing System.vcxproj.AssemblyReference.cache
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.adminpanel_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.loading_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.passwordreset_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.productsadd_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.registrationform_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.signin_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\MartBillingSystem.Software.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\x64\Debug\Mart Billing System.vcxproj.GenerateResource.cache

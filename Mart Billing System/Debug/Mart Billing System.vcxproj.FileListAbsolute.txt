@@ -1,0 +1,14 @@
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.AssemblyReference.cache
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.forgotpassword_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.login_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.Software.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.GenerateResource.cache
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.AssemblyReference.cache
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.adminpanel_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.loading_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.passwordreset_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.productsadd_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.registrationform_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.signin_page.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.Software.resources
+C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.GenerateResource.cache

@@ -1,0 +1,10 @@
+﻿  adminpanel_page.cpp
+  loading_page.cpp
+  passwordreset_page.cpp
+  productsadd_page.cpp
+  registrationform_page.cpp
+  signin_page.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Generating Code...
+  adminpanel_page.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Mart Billing System.vcxproj -> C:\Users\Konain Raza\Documents\Mart Billing System\x64\Debug\Mart Billing System.exe

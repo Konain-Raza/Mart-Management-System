@@ -1,0 +1,8 @@
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.adminpanel_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.loading_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.passwordreset_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.productsadd_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.registrationform_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.signin_page.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.Software.resources
+C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\Mart Billing System.vcxproj.GenerateResource.cache
