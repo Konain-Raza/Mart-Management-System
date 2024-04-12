@@ -1,14 +1,3 @@
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.AssemblyReference.cache
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.forgotpassword_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.login_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.Software.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.GenerateResource.cache
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.AssemblyReference.cache
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.adminpanel_page.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.loading_page.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.passwordreset_page.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.productsadd_page.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.registrationform_page.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.signin_page.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\MartBillingSystem.Software.resources
-C:\Users\Konain Raza\Documents\Mart Billing System\Mart Billing System\Debug\Mart Billing System.vcxproj.GenerateResource.cache
+version https://git-lfs.github.com/spec/v1
+oid sha256:d753be0d456933c651777b22c74ba1ad00844af53ae6d1fe9469a1d531209389
+size 1741

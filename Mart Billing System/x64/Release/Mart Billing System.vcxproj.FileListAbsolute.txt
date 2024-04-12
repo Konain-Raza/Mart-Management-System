@@ -1,8 +1,3 @@
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.adminpanel_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.loading_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.passwordreset_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.productsadd_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.registrationform_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.signin_page.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\MartBillingSystem.Software.resources
-C:\Users\Konain Raza\source\repos\Mart Billing System\Mart Billing System\x64\Release\Mart Billing System.vcxproj.GenerateResource.cache
+version https://git-lfs.github.com/spec/v1
+oid sha256:6137c2f92062fa8a2a48d482309aecb6d785f56eed974d99b51e0aa687a1008d
+size 1051

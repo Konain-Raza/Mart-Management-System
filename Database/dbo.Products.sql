@@ -1,11 +1,3 @@
-﻿CREATE TABLE [dbo].[Products] (
-    [Id]           INT          NOT NULL IDENTITY,
-    [Barcode]      VARCHAR (12) NOT NULL,
-    [Product Name] VARCHAR (30) NOT NULL,
-    [Quantity]     INT          NOT NULL,
-    [Price]        INT          NOT NULL,
-    PRIMARY KEY CLUSTERED ([Id] ASC),
-    UNIQUE NONCLUSTERED ([Product Name] ASC),
-    UNIQUE NONCLUSTERED ([Barcode] ASC)
-);
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b598a6b1db3b7803b9a1b4733524ceaf03a81b720dd0791669d751c716663f03
+size 393

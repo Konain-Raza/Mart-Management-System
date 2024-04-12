@@ -1,2 +1,3 @@
-#using <mscorlib.dll>
-[assembly: System::Runtime::Versioning::TargetFrameworkAttribute(L".NETFramework,Version=v4.6.1", FrameworkDisplayName=L".NET Framework 4.6.1")];
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c1d8e5dc5d22cae968a28fde60d9f498c00b365af24d0b684c2ec27a1b294c0
+size 170
