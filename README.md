@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.png" alt="Mart Management System Icon" width="200" height="200">
+  <img src="./icon.png" alt="Mart Management System Icon" width="200" height="200">
 </p>
 
 # 🛒 Mart Management & Billing System
